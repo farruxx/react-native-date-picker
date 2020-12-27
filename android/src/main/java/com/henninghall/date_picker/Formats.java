@@ -109,7 +109,7 @@ public class Formats {
         put("pt_BR", mapOf("EEE, d 'de' MMM", "d", "y"));
         put("pt_PT", mapOf("EEE, d/MM", "d", "y"));
         put("ro", mapOf("EEE, d MMM", "d", "y"));
-        put("ru", mapOf("ccc, d MMM", "d", "y"));
+        put("ru", mapOf("EEE, MMM d", "d", "y"));
         put("sh", mapOf("EEE d. MMM", "d", "y."));
         put("si", mapOf("MMM d EEE", "d", "y"));
         put("sk", mapOf("EEE d. M.", "d.", "y"));
